@@ -7,20 +7,20 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
+    fullname: 'Golamrabbi Azad', // ←  Start by adding your name!
     title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    occupation: 'Student, JS Dev',
+    location: 'Joypurhat, Bangladesh',
+    bio: 'Passionate about coding mostly JavaScript, Java, Python. And I also do UI/UX Design stuff.',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
+    email: 'golamrabbiazad@gmail.com',
+    twitter: 'golamrabbiazad',
+    linkedin: 'golamrabbiazad',
+    instagram: 'golamrabbiazad',
     facebook: 'your-facebook-name',
 
     /**
